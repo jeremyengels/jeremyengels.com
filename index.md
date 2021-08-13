@@ -6,4 +6,4 @@
 
 It's still very much under construction 
 
-$$ a^2 + b^2 = c^2 $$
+$$ \int_{\partial \Omega} \omega = \int_\Omega d\omega $$
