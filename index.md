@@ -1,3 +1,3 @@
-# Test of my website!
+# Welcome to my website!
 
-1. This is pretty neat
+It's still very much under construction 
