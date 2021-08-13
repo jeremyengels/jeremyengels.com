@@ -5,7 +5,7 @@
 # Welcome to my website!
 
 1. It's still very much under construction 
-2. For now, enjoy Stokes' Theorem -- just figured out how to get pretty math onto this website
+2. For now, enjoy Stokes' Theorem -- just figured out how to get pretty math onto here
 
 
 $$ \int_{\partial \Omega} \omega = \int_\Omega d\omega $$
