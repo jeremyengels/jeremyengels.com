@@ -4,6 +4,8 @@
 
 # Welcome to my website!
 
+[About me](about.md)
+
 1. It's still very much under construction 
 2. For now, enjoy Stokes' Theorem -- just figured out how to get pretty math onto here
 
