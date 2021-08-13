@@ -4,10 +4,6 @@
 
 # Welcome to my website!
 
-[About me](about.md)
+[About me](about.md) • [Personal projects](projects.md) • [Work history](experience.md) 
 
-1. It's still very much under construction 
-2. For now, enjoy Stokes' Theorem -- just figured out how to get pretty math onto here
-
-
-$$ \int_{\partial \Omega} \omega = \int_\Omega d\omega $$
+It's still very much under construction so don't expect much (yet)
