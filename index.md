@@ -4,6 +4,8 @@
 
 # Welcome to my website!
 
-It's still very much under construction 
+1. It's still very much under construction 
+2. For now, enjoy stokes theorem, just figured out how to get pretty math onto this website
+
 
 $$ \int_{\partial \Omega} \omega = \int_\Omega d\omega $$
