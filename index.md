@@ -4,17 +4,17 @@
 
 # Remy's Website
 
-Hello! I'm Jeremy (sometimes called Remy) and I'm a grad student at UCLA. I'm studying Aerospace Engineering with a focus in control systems.
+Hello! I'm Jeremy (sometimes called Remy) and I'm a grad student at UCLA. I'm studying Aerospace Engineering with a focus in control systems, and am an aspiring GNC engineer.
 
 When I'm not doing engineering I spend most of my time rock cimbing, and spend lots of time in the mountains.
 
-Please browse through and have a look at some cool extracurricular & personal projects I've worked on. Feel free to reach out if anything catches your eye!
+Please browse through and have a look at some personal projects I've worked on. Reach out if anything catches your eye!
 
 ### Personal projects:
 * [Bang Bang Satellite Controls](bang-bang.md)
 * [Orbital Determination](orbital-determination.md)
 * [Ground Track Generator](ground-track.md)
-* [Lagrange Points & Horseshoe Orbits](lagrange-points.md)
+* [Lagrange Points & Trojan Orbits](lagrange-points.md)
 * [Active Suspension — Senior Capstone Project](capstone.md)
 
 ### Useful links:
