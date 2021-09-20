@@ -14,10 +14,11 @@ Please browse through and have a look at some personal projects I've worked on. 
 
 ### Personal projects:
 * [Bang Bang Satellite Controls](bang-bang.md)
+* [Porkchop Plots for Interplanetary Transfers](porkchop.md)
 * [Orbital Determination](orbital-determination.md)
 * [Ground Track Generator](ground-track.md)
 * [Lagrange Points & Trojan Orbits](lagrange-points.md)
-* [Active Suspension — Senior Capstone Project](capstone.md)
+* [Active Suspension Controls — Senior Capstone Project](capstone.md)
 
 ### Useful links:
 * [My resume]()
