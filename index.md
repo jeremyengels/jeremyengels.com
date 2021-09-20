@@ -14,7 +14,7 @@ Please browse through and have a look at some personal projects I've worked on. 
 
 ### Personal projects:
 * [Bang Bang Satellite Controls](bang-bang.md)
-* [Porkchop Plots for Interplanetary Transfers](porkchop.md)
+* [Porkchop Plots](porkchop.md)
 * [Orbital Determination](orbital-determination.md)
 * [Ground Track Generator](ground-track.md)
 * [Lagrange Points & Trojan Orbits](lagrange-points.md)
