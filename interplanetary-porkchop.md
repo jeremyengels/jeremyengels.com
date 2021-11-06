@@ -12,4 +12,4 @@ I was fascinated by these plots so I sought out to generate them myself.
 
 
 
-![porkchop plot](/img/porkchop.pdf)
+![porkchop plot](/img/porkchop.pdf "test")
