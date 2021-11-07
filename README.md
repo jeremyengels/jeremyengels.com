@@ -1,7 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 # Jeremy's Website
 
 Hello! I'm Jeremy and I'm a grad student at UCLA. I'm studying Aerospace Engineering with a focus in control systems. I like to suppliment my learning with personal side-projects (some of which are shown here).
