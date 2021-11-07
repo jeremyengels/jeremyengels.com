@@ -4,6 +4,11 @@
 | :----: | :----: | :----: |
 
 
+<table><tr>
+<td> <img src="portrait.jpeg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="climbing.jpeg" alt="Drawing" style="width: 250px;"/> </td>
+</tr></table>
+
 Hello! I'm Jeremy and I'm a grad student at UCLA. I'm studying Aerospace Engineering with a focus in control systems. I like to suppliment my learning with personal side-projects (some of which are shown here).
 
 Please browse through and have a look at some of my projects, and feel free to reach out!
