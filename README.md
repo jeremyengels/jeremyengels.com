@@ -1,9 +1,9 @@
 # Jeremy's Website
 
 <p float="left">
-  <img src="/img/portrait.jpeg" width="33%" />
-  <img src="/img/baja.jpeg" width="33%" /> 
-  <img src="/img/climbing.jpeg" width="33%" />
+  <img src="/img/portrait.jpeg" width="30%" />
+  <img src="/img/baja.jpeg" width="30%" /> 
+  <img src="/img/climbing.jpeg" width="30%" />
 </p>
 
 Hello! I'm Jeremy and I'm a grad student at UCLA. I'm studying Aerospace Engineering with a focus in control systems. I like to suppliment my learning with personal side-projects (some of which are shown here).
