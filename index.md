@@ -23,6 +23,7 @@ Please browse through and have a look at some personal projects I've worked on. 
 ### Useful links:
 * [My resume]()
 * [My github](https://github.com/jeremyengels)
+* [My LinkedIn](https://www.linkedin.com/in/jeremyengels/)
 
 ### Contact information:
 * Email: [jeremyengels@gmail.com](mailto:jeremyengels@gmail.com)
