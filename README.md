@@ -8,11 +8,6 @@ Hello! I'm Jeremy and I'm a grad student at UCLA. I'm studying Aerospace Enginee
 
 Please browse through and have a look at some of my projects, and feel free to reach out!
 
-test1 | test2
-:--------:|:---------:
-![porkchop plot](/img/porkchop.jpg?raw=true) | ![porkchop plot](/img/porkchop.jpg?raw=true)
-
-
 ### Personal projects:
 * [Bang Bang Satellite Controls](bang-bang.md)
 * [Generating Porkchop Plots](interplanetary-porkchop.md)
