@@ -1,9 +1,5 @@
 # Jeremy's Website
 
-| ![Portrait](/img/portrait.jpeg) | ![Baja Car](/img/baja.jpeg) | ![Climbing](/img/climbing.jpeg) |
-| :----: | :----: | :----: |
-
-
 <p float="left">
   <img src="/img/portrait.jpeg" width="30%" />
   <img src="/img/baja.jpeg" width="30%" /> 
