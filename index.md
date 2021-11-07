@@ -17,7 +17,7 @@ Please browse through and have a look at some of my projects, and feel free to r
 
 
 ### Useful links:
-* [My resume]()
+* [My resume](https://github.com/jeremyengels/resume/blob/master/jeremy_engels_resume_2020.pdf)
 * [My github](https://github.com/jeremyengels)
 * [My LinkedIn](https://www.linkedin.com/in/jeremyengels/)
 
