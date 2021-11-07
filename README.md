@@ -1,6 +1,7 @@
 # Jeremy's Website
 
-![Portrait](/img/portrait.jpeg)
+![Portrait](/img/portrait.jpeg) | ![Baja Car](/img/baja.jpeg) | ![Climbing](/img/climbing.jpeg)
+:--:|:--:|:--:
 
 
 Hello! I'm Jeremy and I'm a grad student at UCLA. I'm studying Aerospace Engineering with a focus in control systems. I like to suppliment my learning with personal side-projects (some of which are shown here).
