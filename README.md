@@ -25,4 +25,3 @@ Please browse through and have a look at some of my projects, and feel free to r
 
 ### Contact information:
 * Email: [jeremyengels@gmail.com](mailto:jeremyengels@gmail.com)
-* Phone: [415-852-2880](tel:14158522880)
