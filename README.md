@@ -15,7 +15,6 @@ Please browse through and have a look at some of my projects, and feel free to r
 * [Generating Porkchop Plots](interplanetary-porkchop.md)
 * [Ground Track Plotter](ground-track.md)
 * [Active Suspension Controls — Senior Capstone Project](capstone.md)
-* [Lagrange Points & Trojan Orbits](lagrange-points.md)
 
 
 ### Useful links:
