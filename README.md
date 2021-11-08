@@ -18,8 +18,8 @@ Please browse through and have a look at some of my projects, and feel free to r
 
 
 ### Useful links:
-* [My resume](https://github.com/jeremyengels/resume/blob/master/jeremy_engels_resume_2021.pdf)
-* [My github](https://github.com/jeremyengels)
+* [My Resume](https://github.com/jeremyengels/resume/blob/master/jeremy_engels_resume_2021.pdf)
+* [My Github](https://github.com/jeremyengels)
 * [My LinkedIn](https://www.linkedin.com/in/jeremyengels/)
 
 ### Contact information:
