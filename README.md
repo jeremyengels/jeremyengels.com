@@ -1,6 +1,6 @@
 # Jeremy's Website
 
-<p float="center">
+<p float="left">
   <img src="/img/portrait.jpeg" width="30%" />
   <img src="/img/baja.jpeg" width="30%" /> 
   <img src="/img/climbing.jpeg" width="30%" />
