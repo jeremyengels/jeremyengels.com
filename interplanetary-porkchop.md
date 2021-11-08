@@ -57,3 +57,9 @@ With this generator my first idea was to plot the 2020 launch window from Earth 
 As you can see it's pretty good! The M2020 mission launches within a couple weeks of the minimum calculated $$\Delta V$$ transfer. And as you get further and further from this minimum-energy point the required $$\Delta V$$ to perform the maneuver increases dramatically. 
 
 I believe that the reason that my plot does not have a minimum closer to the M2020 mission, is the constant orbital element assumption I made in the orbital propagator. The orbits of Mars and Earth are both perturbed by other bodies in the solar system, and as such the orbital elements vary pretty significantly over many years. 
+
+We can also plot the departure and arrival $$\Delta V$$'s separately, if for some reason we care more about one or the other in mission planning. This version of the same plot is shown below 
+
+<p style="text-align:center">
+  <img src="/img/porkchop_separate.jpg" width="70%" />
+</p>
