@@ -50,9 +50,13 @@ To form the porkchop plot, these two $$\Delta V$$'s can either be summed and plo
 
 With this generator my first idea was to plot the 2020 launch window from Earth to Mars, and compare my results to the NASA Mars 2020 Mission dates. This porkchop plot is shown below.
 
+<br/><br/>
+
 <p style="text-align:center">
   <img src="/img/porkchop.jpg" width="70%" />
 </p>
+
+<br/><br/>
 
 As you can see it's pretty good! The M2020 mission launches within a couple weeks of the minimum calculated $$\Delta V$$ transfer. And as you get further and further from this minimum-energy point the required $$\Delta V$$ to perform the maneuver increases dramatically. 
 
@@ -60,6 +64,10 @@ I believe that the reason that my plot does not have a minimum closer to the M20
 
 We can also plot the departure and arrival $$\Delta V$$'s separately, if for some reason we care more about one or the other in mission planning. This version of the same plot is shown below 
 
+<br/><br/>
+
 <p style="text-align:center">
   <img src="/img/porkchop_separate.jpg" width="70%" />
 </p>
+
+<br/><br/>
