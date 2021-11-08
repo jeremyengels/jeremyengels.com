@@ -1,4 +1,5 @@
 # Jeremy's Website
+## (still in beta)
 
 <p float="left">
   <img src="/img/portrait.jpeg" width="30%" />
