@@ -23,7 +23,7 @@ Please browse through and have a look at some of my projects, and feel free to r
 * [My Github](https://github.com/jeremyengels)
 * [My LinkedIn](https://www.linkedin.com/in/jeremyengels/)
 
-<a href="PDF.pdf" download="new pdf">Click to download</a>
+<a href="jeremy_engels_resume_2021.pdf" download="resume">Click to download</a>
 
 ### Contact information:
 * Email: [jeremyengels@gmail.com](mailto:jeremyengels@gmail.com)
