@@ -19,10 +19,10 @@ Please browse through and have a look at some of my projects, and feel free to r
 
 
 ### Useful links:
-* [My Resume](https://github.com/jeremyengels/resume/blob/master/jeremy_engels_resume_2021.pdf)
+* <a id="raw-url" href="https://raw.githubusercontent.com/jeremyengels/resume/master/jeremy_engels_resume_2021.pdf">My Resume</a> (try [this](https://github.com/jeremyengels/resume/blob/master/jeremy_engels_resume_2021.pdf) if that doesn't work)
 * [My Github](https://github.com/jeremyengels)
 * [My LinkedIn](https://www.linkedin.com/in/jeremyengels/)
-* <a id="raw-url" href="https://raw.githubusercontent.com/jeremyengels/resume/master/jeremy_engels_resume_2021.pdf">My Resume</a>
+
 
 
 ### Contact information:
