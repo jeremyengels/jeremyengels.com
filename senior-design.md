@@ -45,7 +45,7 @@ The overarching goal of the whole control system, was to _minimize the accelerat
 
 First we will loook at the disturbance step response of the vehicle (that is — the vertical position of the vehicle when encountering a positional step, i.e. rolling over a rock or ledge). Recall, we want to minimize the acceleration of the patient, so minimizing any fast positional changes is what we're looking for. Also recall from above, our goal is to make $$\pi_\ell \approx -\pi_w$$, so that the actuator "cancels" out the disturbance. 
 
-![Dynamic Response](/img/capstone_response.png)
+![Dynamic Response](/img/capstone_response.jpeg)
 
 The top plot shows that the actuator starts to respond _before_ the step hits (which is the whole point of the LiDAR). When it does this it is able to cancel out the disturbance much better. Note that the actuator, like any physical system, is band-limited, so the feedforward controller in a sense times when to start moving the actuator while predicting when the disturbance will hit. In contrast, the second plot shows what happens when the control system is purely reactive, so the actuator can only start responding after the step has hit. 
 
