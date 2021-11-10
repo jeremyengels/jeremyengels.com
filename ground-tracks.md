@@ -28,7 +28,7 @@ Here are some results! Not too much to say other than the plots look as we would
 <br/><br/>
 
 <p style="text-align:center">
-  <img src="/img/GT_Molniya.jpeg" width="70%" />
+  <img src="/img/GT_molniya.jpeg" width="70%" />
 </p>
 
 <br/><br/>
