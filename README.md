@@ -23,9 +23,7 @@ Please browse through and have a look at some of my projects, and feel free to r
 * [My Github](https://github.com/jeremyengels)
 * [My LinkedIn](https://www.linkedin.com/in/jeremyengels/)
 
-<a href="jeremy_engels_resume_2021.pdf" download="resume">Click to download</a>
-
-<a id="raw-url" href="https://raw.githubusercontent.com/jeremyengels/resume/master/jeremy_engels_resume_2021.pdf">Download FILE</a>
+* <a id="raw-url" href="https://raw.githubusercontent.com/jeremyengels/resume/master/jeremy_engels_resume_2021.pdf">My Resume</a>
 
 
 ### Contact information:
