@@ -1,5 +1,3 @@
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-
 # Jeremy's Website
 ## (still in beta)
 
@@ -21,10 +19,9 @@ Please browse through and have a look at some of my projects, and feel free to r
 
 
 ### Useful links:
-* <a id="raw-url" href="https://raw.githubusercontent.com/jeremyengels/resume/master/jeremy_engels_resume_2021.pdf">My Resume</a> $$\ $$ ([use this](https://github.com/jeremyengels/resume/blob/master/jeremy_engels_resume_2021.pdf) if that doesn't work)
+* <a id="raw-url" href="https://raw.githubusercontent.com/jeremyengels/resume/master/jeremy_engels_resume_2021.pdf">My Resume</a> ([use this](https://github.com/jeremyengels/resume/blob/master/jeremy_engels_resume_2021.pdf) if that doesn't work)
 * [My Github](https://github.com/jeremyengels)
 * [My LinkedIn](https://www.linkedin.com/in/jeremyengels/)
-
 
 
 ### Contact information:
