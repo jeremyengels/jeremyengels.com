@@ -21,3 +21,9 @@ Our solution to this problem was a trailer which would be capable of being towed
 
 ### My Contribution: The Control System & General Architecture
 
+So we have actuators and sensors. But what do we do with them? 
+
+This is what most of my work went into for this project. The very cool part about this LiDAR architecture (and, to be fair, the _reason_ we included it in the first place), was to gain access to _future_ disturbance data. Depending on the speed the vehicle was traveling, we had anywhere between 1 and 5 seconds of estimated terrain height in front of the trailer. So the question is how do we implement this into the control system. 
+
+The solution I designed was a combination of feedforward and feedback control. The block diagram for the full control system is shown below. 
+
