@@ -48,7 +48,7 @@ First we will loook at the disturbance step response of the vehicle (that is —
 <br></br>
 
 <p style="text-align:center">
-  <img src="/img/capstone_response.jpeg" width="50%" />
+  <img src="/img/capstone_response.jpeg" width="60%" />
 </p>
 
 <br></br>
