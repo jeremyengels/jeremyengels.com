@@ -31,7 +31,7 @@ The solution I designed was a combination of feedforward and feedback control. T
 
 <br/><br/>
 <p style="text-align:center">
-  <img src="/img/capstone_blockdiagram.png" width="90%" />
+  <img src="/img/capstone_blockdiagram.png" width="99%" />
 </p>
 <br/><br/>
 
