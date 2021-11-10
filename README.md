@@ -15,7 +15,7 @@ Please browse through and have a look at some of my projects, and feel free to r
 * [Porkchop Plot Generator](interplanetary-porkchop.md)
 * [Bang Bang Satellite Controls](bang-bang.md)
 * [Ground Track Plotter](ground-track.md)
-* [Active Suspension Controls — Senior Capstone Project](capstone.md)
+* [Active Suspension Controls — Senior Capstone Project](senior-design.md)
 
 
 ### Useful links:
