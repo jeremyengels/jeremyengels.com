@@ -25,5 +25,8 @@ Please browse through and have a look at some of my projects, and feel free to r
 
 <a href="jeremy_engels_resume_2021.pdf" download="resume">Click to download</a>
 
+<a id="raw-url" href="https://raw.githubusercontent.com/jeremyengels/resume/master/jeremy_engels_resume_2021.pdf">Download FILE</a>
+
+
 ### Contact information:
 * Email: [jeremyengels@gmail.com](mailto:jeremyengels@gmail.com)
