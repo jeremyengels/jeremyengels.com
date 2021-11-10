@@ -1,5 +1,4 @@
 # Jeremy's Website
-## (still in beta)
 
 <p float="left">
   <img src="/img/portrait.jpeg" width="30%" />
@@ -11,7 +10,7 @@ Hello! I'm Jeremy and I'm a grad student at UCLA. I'm studying Aerospace Enginee
 
 Please browse through and have a look at some of my projects, and feel free to reach out!
 
-### Personal projects:
+### Some Personal projects:
 * [Porkchop Plot Generator](interplanetary-porkchop.md)
 * [Bang Bang Satellite Controls](bang-bang.md)
 * [Ground Track Plotter](ground-tracks.md)
