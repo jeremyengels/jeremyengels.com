@@ -27,3 +27,4 @@ This is what most of my work went into for this project. The very cool part abou
 
 The solution I designed was a combination of feedforward and feedback control. The block diagram for the full control system is shown below. 
 
+![Block Diagram](/img/capstone_blockdiagram.png)
