@@ -14,6 +14,10 @@
 ### One Solution: PWM + Accumulated Residuals
 
 
+<p float="center">
+  <img src="/img/bangbang_blockdiagram.png" width="99%" />
+</p>
+
 
 ### Implementation in Simulink
 
