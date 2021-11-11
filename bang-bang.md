@@ -13,11 +13,11 @@
 
 ### One Solution: PWM + Accumulated Residuals
 
-<br/><br/>
+<br/>
 <p style="text-align:center">
   <img src="/img/bangbang_blockdiagram.png" width="99%" />
 </p>
-<br/><br/>
+<br/>
 
 ### Implementation in Simulink
 
