@@ -25,23 +25,19 @@ From here use Kepler's method to solve for the true anomaly $$\theta$$ at each d
 
 Here are some results! Not too much to say other than the plots look as we would expect them to. Shown below is a Molniya Orbit, made popular by Soviet spy satellites.
 
-<br/><br/>
-
+<br/>
 <p style="text-align:center">
   <img src="/img/GT_molniya.jpeg" width="70%" />
 </p>
-
-<br/><br/>
+<br/>
 
 Here's an orbit we're all familiar with, which is the ISS's orbit. It's plotted here for 5 periods. 
 
-<br/><br/>
-
+<br/>
 <p style="text-align:center">
   <img src="/img/GT_ISS.jpeg" width="70%" />
 </p>
-
-<br/><br/>
+<br/>
 
 ### Future Work
 
