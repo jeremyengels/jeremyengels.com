@@ -69,3 +69,32 @@ We can also plot the departure and arrival $$\Delta V$$'s separately, if for som
   <img src="/img/porkchop_separate.jpg" width="70%" />
 </p>
 <br/>
+
+Also, for reference, here is a plot of the trajectory that the M2020 mission followed. 
+
+<br/>
+<p style="text-align:center">
+  <img src="/img/m2020_transfer.jpeg" width="70%" />
+</p>
+<br/>
+
+It is clearly a faster orbit than the energy-optimal Hohmann transfer (where the spacecraft would arrive ~$$180^\circ$$ away from where it departed) which uses more $$\Delta V$$. This is a choice NASA engineers had to make, when weighing the relative importance of $$\Delta V$$, total transfer time, and position of Mars in the sky relative to Earth for the sake of communications, among other things I'm sure. 
+
+
+### More Results: Identifying Launch Windows
+
+The above section discussed the Earth to Mars 2020 launch window, but how do we know that 2020 was a good time to launch? For this question we can simply increase the departure and arrival date ranges and generate the same porkchop plot. Every local minimum in $$\Delta V$$ corresponds to a launch opportunity. 
+
+<br/>
+<p style="text-align:center">
+  <img src="/img/porkchop_big.jpeg" width="70%" />
+</p>
+<br/>
+
+For example shown above is the porkchop plot again for Earth to Mars, but this time it's over a much larger date range. As we can see, it appears that more or less the same shape appears every ~26 months, which correspond to each optimal departure time. 
+
+
+### Future Work:
+
+1. As discussed previously, I need to relax the assumption that Earth and Mars are experiencing no perturbations in their orbits. If I include a higher-fidelity orbital propogator I think I will get results that match up much closer to those which NASA published. 
+2. Currently I only have ephemeris data for Earth and Mars, but it is very easy to incorporate other planets. This is just something I haven't done yet.
