@@ -21,6 +21,11 @@
 
 ### Implementation in Simulink
 
+<br/>
+<p style="text-align:center">
+  <img src="/img/bang-bang_sim.png" width="99%" />
+</p>
+<br/>
 
 
 ### GUI From MATLAB (work in progress)
