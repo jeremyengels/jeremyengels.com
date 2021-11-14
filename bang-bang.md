@@ -64,7 +64,7 @@ Most of my results at this point are pretty hand-wavey since I haven't plugged i
 
 <br/>
 <p style="text-align:center">
-  <img src="/img/bang-bang_yawflip.jpeg" width="70%" />
+  <img src="/img/bang-bang_yawflip.jpeg" width="30%" />
 </p>
 <br/>
 
