@@ -30,4 +30,4 @@
 
 ### GUI From MATLAB (work in progress)
 
-[![YouTube Link](/img/bangbang_blockdiagram.png)](https://www.youtube.com/watch?v=JeiuTB-I4bc)
+[![YouTube Link](/img/bang-bang_thumbnail.png)](https://www.youtube.com/watch?v=JeiuTB-I4bc)
