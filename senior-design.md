@@ -14,11 +14,34 @@ In a search-and-rescue scenario in intensely offroad environments, patients must
 
 Our solution to this problem was a trailer which would be capable of being towed over very rough terrain by any common truck or Jeep. Additionally, since the injured patient could be in a critical condition, a bumpy ride could make injuries worse. For this reason we determined that the trailer must have some kind of active suspension system to minimize the acceleration felt by the passengers inside. 
 
+<br/>
+<p style="text-align:center">
+  <img src="/img/capstone_render.png" width="70%" />
+</p>
+<br/>
+
+The render above shows the general setup of the vehicle. It has enough internal volume for one injured patient on a gurney and one seated EMT next to the patient, as well as medical equipment. Under the floor are batteries which power the main actuators as well as the sensors and any medical systems inside. 
+
 
 ### The Actuation System
 
+We iterated through a number of active suspension design configurations. Ultimately what we chose was one linear actuator controlling each independent suspension assembly. This linear actuator is placed in series with an off-the-shelf passive shock absorber. We determined that this was the best configuration for our need, given that this big actuator had a relatively small bandwidth. 
+
+We figured out how to package the actuator nicely within the envelope of the vehicle without encroaching on usable interior space. 
+
+
+<br/>
+<p style="text-align:center">
+  <img src="/img/capstone_actuator.png" width="50%" />
+</p>
+<br/>
+
 
 ### The Sensing System
+
+We implemented a number of sensors on the vehicle, including two hall-effect wheel speed sensors, an accelerometer, a gyroscope, two rotary encoders, and two LiDAR sensors. The first four are used to estimate the state of the vehicle with a Kalman Filter (more on that below), and the LiDAR sensors are used to generate terrain maps of the ground ahead of the vehicle. 
+
+The LiDAR sensors output point clouds of the terrain in front of the vehicle, and using computer vision algorithms we were able to pretty efficiently create a relatively accurate terrain surface. This terrain map is used by the control system (read below) to respond to incoming disturbances with the actuator _before_ they even reach the vehicle. 
 
 
 ### My Contribution: The Control System & General Architecture
