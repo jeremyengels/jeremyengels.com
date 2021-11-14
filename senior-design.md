@@ -32,7 +32,7 @@ We figured out how to package the actuator nicely within the envelope of the veh
 
 <br/>
 <p style="text-align:center">
-  <img src="/img/capstone_actuator.png" width="50%" />
+  <img src="/img/capstone_actuator.png" width="30%" />
 </p>
 <br/>
 
