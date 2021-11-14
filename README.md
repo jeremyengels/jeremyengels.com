@@ -6,7 +6,7 @@
   <img src="/img/climbing.jpeg" width="30%" />
 </p>
 
-Hello! I'm Jeremy and I'm a grad student at UCLA. I'm studying Aerospace Engineering with a focus in control systems. I like to suppliment my learning with personal side-projects (some of which are shown here).
+Hello! I'm Jeremy and I'm a grad student at UCLA. I'm studying Aerospace Engineering with a focus in control systems. I like to supplement my learning with personal side-projects (some of which are shown here).
 
 Please browse through and have a look at some of my projects, and feel free to reach out!
 
